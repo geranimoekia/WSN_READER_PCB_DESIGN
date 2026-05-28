@@ -97,4 +97,4 @@ Send the contents of the `gerber/` folder to your PCB manufacturer. The Gerber f
 
 ## Author
 
-**Tsotlhena Seiphepi** — ST21001137
+**Tsotlhe Seiphepi**
