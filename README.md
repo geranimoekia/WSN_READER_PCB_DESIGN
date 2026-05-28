@@ -19,11 +19,7 @@ A custom 2-layer PCB for a Wireless Sensor Network (WSN) reader node, designed i
 
 ### Schematic Views
 
-![Schematic 1](exports/WSN%20READER%20PCB%20(2).SVG)
-![Schematic 2](exports/WSN%20READER%20PCB%20(4).SVG)
-![Schematic 3](exports/WSN%20READER%20PCB%20(6).SVG)
-![Schematic 4](exports/WSN%20READER%20PCB%20(7).SVG)
-![Schematic 5](exports/WSN%20READER%20PCB%20(8).SVG)
+![Schematic](exports/WSN%20READER%20PCB%20(2).SVG)
 
 
 
