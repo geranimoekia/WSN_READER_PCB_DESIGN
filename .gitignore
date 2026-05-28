@@ -1,0 +1,21 @@
+# Proteus workspace/lock files
+*.workspace
+*.pdsbak
+*.sts
+*.DO
+*.EDF
+*.TPI
+
+# Backup files
+Backup Of *
+Last Loaded *
+Project Backups/
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Temp
+*.tmp
+*.bak
