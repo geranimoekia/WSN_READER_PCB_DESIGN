@@ -6,6 +6,9 @@ A custom 2-layer PCB for a Wireless Sensor Network (WSN) reader node, designed i
 
 ## Overview
 
+![WSN Reader PCB Layout](exports/WSN%20READER%20PCB.SVG)
+
+
 | Parameter | Value |
 |-----------|-------|
 | MCU | STM32F401RE (ARM Cortex-M4, 84 MHz) |
