@@ -1,4 +1,11 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=200&section=header&text=WSN+Reader+PCB&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=STM32+++LoRa+%C2%B7+Proteus+8+Professional&descAlignY=56&descAlign=50)
+
 # WSN Reader PCB Design
+
+> A custom 2-layer PCB for a long-range IoT sensor node — STM32F401RE ARM Cortex-M4 paired with LoRa wireless, designed in Proteus 8 Professional with full Gerber output ready for fabrication.
+
+![Last Commit](https://img.shields.io/github/last-commit/geranimoekia/WSN_READER_PCB_DESIGN?style=for-the-badge&color=0e75b6)
+![License](https://img.shields.io/github/license/geranimoekia/WSN_READER_PCB_DESIGN?style=for-the-badge&color=brightgreen)
 
 A custom 2-layer PCB for a Wireless Sensor Network (WSN) reader node, designed in **Proteus 8 Professional**. The board is built around an **STM32F401RE** ARM Cortex-M4 microcontroller and communicates wirelessly via a **LoRa** module, making it suitable for long-range IoT sensor data collection.
 
