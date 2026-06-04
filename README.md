@@ -2,6 +2,15 @@
 
 A custom 2-layer PCB for a Wireless Sensor Network (WSN) reader node, designed in **Proteus 8 Professional**. The board is built around an **STM32F401RE** ARM Cortex-M4 microcontroller and communicates wirelessly via a **LoRa** module, making it suitable for long-range IoT sensor data collection.
 
+
+## Tech Stack
+
+![STM32](https://img.shields.io/badge/STM32F401RE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa_Wireless-E91E63?style=for-the-badge&logo=semtech&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus_8_Professional-00A99D?style=for-the-badge&logo=protel&logoColor=white)
+![Gerber](https://img.shields.io/badge/Gerber_X2_PCB-FF6600?style=for-the-badge&logo=autodesk&logoColor=white)
+
 ---
 
 ## Overview
@@ -35,13 +44,6 @@ A custom 2-layer PCB for a Wireless Sensor Network (WSN) reader node, designed i
 
 ---
 
-## Tech Stack
-
-![STM32](https://img.shields.io/badge/STM32F401RE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![LoRa](https://img.shields.io/badge/LoRa_Wireless-E91E63?style=for-the-badge&logo=semtech&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus_8_Professional-00A99D?style=for-the-badge&logo=protel&logoColor=white)
-![Gerber](https://img.shields.io/badge/Gerber_X2_PCB-FF6600?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ## Repository Structure
 
