@@ -2,7 +2,7 @@
 
 # WSN Reader PCB Design
 
-> A custom 2-layer PCB for a long-range IoT sensor node — STM32F401RE ARM Cortex-M4 paired with LoRa wireless, designed in Proteus 8 Professional with full Gerber output ready for fabrication.
+> A custom 2-layer PCB for a long-range IoT sensor node - STM32F401RE ARM Cortex-M4 paired with LoRa wireless, designed in Proteus 8 Professional with full Gerber output ready for fabrication.
 
 ![Last Commit](https://img.shields.io/github/last-commit/geranimoekia/WSN_READER_PCB_DESIGN?style=for-the-badge&color=0e75b6)
 ![License](https://img.shields.io/github/license/geranimoekia/WSN_READER_PCB_DESIGN?style=for-the-badge&color=brightgreen)
