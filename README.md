@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=200&section=header&text=WSN+Reader+PCB&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=STM32+++LoRa+%C2%B7+Proteus+8+Professional&descAlignY=56&descAlign=50)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=200&text=WSN+Reader+PCB&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=STM32+++LoRa+%C2%B7+Proteus+8+Professional&descAlignY=56&descAlign=50)
 
 # WSN Reader PCB Design
 
